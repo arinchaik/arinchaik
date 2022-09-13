@@ -2,7 +2,7 @@
 
 > Do not fear failure but rather fear not trying.
 
-# Technology
+## Technology
 - <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="20px" height="20px" /> [TypeScript](https://www.typescriptlang.org/)
 - <img align="center" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="20px" height="20px" /> [ReactJS](https://reactjs.org/)
 - <img align="center" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" width="20px" height="20px" /> [NextJS](https://nextjs.org/)
