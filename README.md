@@ -4,11 +4,11 @@
 
 # Technology
 - <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="20px" height="20px" /> [TypeScript](https://www.typescriptlang.org/)
-- [ReactJS](https://reactjs.org/)
-- [NextJS](https://nextjs.org/)
-- [Dart](https://dart.dev/)
-- [Flutter](https://flutter.dev/?gclid=CjwKCAjw1ICZBhAzEiwAFfvFhHjw6CU5H8QLYm8qA06y9EO5DN3ZKcu3d26cBUiJ6WxpEQv1VsglwBoCrLwQAvD_BwE&gclsrc=aw.ds)
-- [MUI](https://mui.com/)
+- <img align="center" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="20px" height="20px" /> [ReactJS](https://reactjs.org/)
+- <img align="center" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" width="20px" height="20px" /> [NextJS](https://nextjs.org/)
+- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" width="20px" height="20px" /> [Dart](https://dart.dev/)
+- <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width="20px" height="20px" /> [Flutter](https://flutter.dev/?gclid=CjwKCAjw1ICZBhAzEiwAFfvFhHjw6CU5H8QLYm8qA06y9EO5DN3ZKcu3d26cBUiJ6WxpEQv1VsglwBoCrLwQAvD_BwE&gclsrc=aw.ds)
+- <img align="center" src="https://mui.com/static/logo.png" width="20px" height="20px" /> [MUI](https://mui.com/)
 - [Material Icons](https://mui.com/material-ui/material-icons/)
 - [Date-fns](https://date-fns.org/)
 - [Firebase](https://console.firebase.google.com/)
