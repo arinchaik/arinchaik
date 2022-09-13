@@ -1,3 +1,5 @@
+<p align="center"><img align="center" src="https://i.ibb.co/zVWV7ZZ/cool-background-1.png" /></p>
+
 👺 Hi, I’m @arinchaik just call me "Kester"
 
 > Do not fear failure but rather fear not trying.
