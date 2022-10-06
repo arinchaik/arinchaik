@@ -22,3 +22,5 @@
 - <img align="center" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/sign-check-icon.png" width="20px" /> [Validator](https://github.com/validatorjs/validator.js)
 - <img align="center" src="https://eslint.org/icon-512.png" width="20px" /> [ESLint](https://eslint.org/)
 
+## Learning
+- <img align="center" src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="20px" /> [Cypress]([https://eslint.org/](https://www.cypress.io/))
