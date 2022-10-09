@@ -1,4 +1,6 @@
-<p align="center"><img align="center" src="https://i.ibb.co/zVWV7ZZ/cool-background-1.png" /></p>
+[![@kester's Holopin board](https://holopin.io/api/user/board?user=kester)](https://holopin.io/@kester)
+
+<!-- <p align="center"><img align="center" src="https://i.ibb.co/zVWV7ZZ/cool-background-1.png" /></p> -->
 
 👺 Hi, I’m @arinchaik just call me "Kester"
 
