@@ -10,7 +10,7 @@ Phone: 0623951412
 > Do not fear failure but rather fear not trying.
 
 ## Things I code with
-- <img align="center" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="20px" /> [TypeScript](https://www.typescriptlang.org/)
+- <img target="_blank" align="center" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="20px" /> [TypeScript](https://www.typescriptlang.org/)
 - JavaScript
 - ReactJS
 - NextJS
