@@ -28,10 +28,10 @@ Phone: 0623951412
 - Validator
 - ESLint
 - Cypress
-- React query
 
 ## Current learning
-- Chakra
+- React query
+- Chakra UI
 - Framer motion
 
 
