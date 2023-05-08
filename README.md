@@ -11,7 +11,7 @@ Phone: 0623951412
 
 ## Things I code with
 - <img target="_blank" align="center" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="20px" /> [TypeScript](https://www.typescriptlang.org/)
-- JavaScript
+- <img target="_blank" align="center" src="https://cdn.svgporn.com/logos/javascript.svg" width="20px" /> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - ReactJS
 - NextJS
 - Dart
