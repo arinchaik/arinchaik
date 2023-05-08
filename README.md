@@ -30,14 +30,20 @@ Phone: 0623951412
 - <img align="center" src="hhttps://cdn.svgporn.com/logos/google-cloud.svg" width="20px" /> [Google Cloud](https://cloud.google.com/)
 - <img align="center" src="https://cdn.svgporn.com/logos/axios.svg" width="20px" /> [Axios](https://axios-http.com/)
 - <img align="center" src="https://cdn.svgporn.com/logos/cypress-icon.svg" width="20px" /> [Cypress](https://www.cypress.io/)
+- <img align="center" src="https://cdn.svgporn.com/logos/turborepo.svg" width="20px" /> [Turbo](https://turbo.build/)
 - <img align="center" src="https://avatars.githubusercontent.com/u/14921202?s=200&v=4" width="20px" /> [Date-fns](https://date-fns.org/)
 - <img align="center" src="https://cdn.svgporn.com/logos/lodash.svg" width="20px" /> [Lodash](https://lodash.com/)
-- <img align="center" src="https://cdn.svgporn.com/logos/react-rounter.svg" width="20px" /> [React Router](https://github.com/remix-run/react-router)
+- <img align="center" src="https://cdn.svgporn.com/logos/react-router.svg" width="20px" /> [React Router](https://github.com/remix-run/react-router)
 - <img align="center" src="https://cdn.svgporn.com/logos/redux.svg" width="20px" /> [Redux](https://redux.js.org/)
 - <img align="center" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/sign-check-icon.png" width="20px" /> [Validator](https://github.com/validatorjs/validator.js)
 - <img align="center" src="https://cdn.svgporn.com/logos/eslint.svg" width="20px" /> [ESLint](https://eslint.org/)
 - <img align="center" src="https://cdn.svgporn.com/logos/algolia.svg" width="20px" /> [Algolia](https://www.algolia.com/)
-
+- <img align="center" src="https://cdn.svgporn.com/logos/strapi-icon.svg" width="20px" /> [Strapi](https://strapi.io/)
+- <img align="center" src="https://cdn.svgporn.com/logos/notion-icon.svg" width="20px" /> [Notion](https://www.notion.so/)
+- <img align="center" src="https://cdn.svgporn.com/logos/storybook-icon.svg" width="20px" /> [Storybook](https://storybook.js.org/)
+- <img align="center" src="https://cdn.svgporn.com/logos/figma.svg" width="20px" /> [Figma](https://www.figma.com/)
+- <img align="center" src="https://cdn.svgporn.com/logos/slack-icon.svg" width="20px" /> [Slack](https://slack.com/)
+- <img align="center" src="https://cdn.svgporn.com/logos/jira.svg" width="20px" /> [Jira](https://www.atlassian.com/software/jira)
 
 ## Current learning
 - React query
