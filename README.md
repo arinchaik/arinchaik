@@ -47,6 +47,7 @@ Phone: 0623951412
 
 ## Current learning
 - React query
+- SWR
 - Chakra UI
 - Framer motion
 
