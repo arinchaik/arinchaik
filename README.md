@@ -11,7 +11,7 @@ Phone: 0623951412
 
 # Things I code with
 ## Langs
-- <img align="center" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="20px" /> [TypeScript](https://www.typescriptlang.org/)
+- <img align="center" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="40px" /> [TypeScript](https://www.typescriptlang.org/)
 - <img align="center" src="https://cdn.svgporn.com/logos/javascript.svg" width="20px" /> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - <img align="center" src="https://cdn.svgporn.com/logos/dart.svg" width="20px" /> [Dart](https://dart.dev/)
 
