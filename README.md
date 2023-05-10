@@ -27,7 +27,7 @@ Phone: 0623951412
 - <img align="center" src="https://cdn.svgporn.com/logos/vercel.svg" width="20px" /> [Versel](https://vercel.com/)
 - <img align="center" src="https://miro.medium.com/max/600/1*fDYbr2W6lqoWRdRnubT4xA.png" width="20px" /> [i18next](https://react.i18next.com/)
 - <img align="center" src="https://cdn.svgporn.com/logos/firebase.svg" width="20px" /> [Firebase](https://firebase.google.com/)
-- <img align="center" src="hhttps://cdn.svgporn.com/logos/google-cloud.svg" width="20px" /> [Google Cloud](https://cloud.google.com/)
+- <img align="center" src="https://cdn.svgporn.com/logos/google-cloud.svg" width="20px" /> [Google Cloud](https://cloud.google.com/)
 - <img align="center" src="https://cdn.svgporn.com/logos/axios.svg" width="20px" /> [Axios](https://axios-http.com/)
 - <img align="center" src="https://cdn.svgporn.com/logos/cypress-icon.svg" width="20px" /> [Cypress](https://www.cypress.io/)
 - <img align="center" src="https://cdn.svgporn.com/logos/turborepo.svg" width="20px" /> [Turbo](https://turbo.build/)
