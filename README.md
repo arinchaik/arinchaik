@@ -5,7 +5,6 @@
 👺 Hi, I’m @arinchaik just call me "Kester"
 
 Email: arinchaik1994@gmail.com
-Phone: 0623951412
 
 > Do not fear failure but rather fear not trying.
 
